@@ -58,6 +58,7 @@ public class Fruit {
                 ", weight=" + weight +
                 ", color='" + color + '\'' +
                 '}';
+        //test
     }
 
     public Fruit(Long id, String name, Integer weight, String color) {
